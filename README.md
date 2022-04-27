@@ -1,10 +1,13 @@
-### Hi there 👋
+## About me
+I am a junior web developer currently schooling for a computer engineer in Maribor, Slovenia.
+
+### Languages and technolodies I use
+![JavaScript](https://img.shields.io/badge/JavaScript-esnext-yellow?style=for-the-badge&logo=javascript)
+![typescript](https://img.shields.io/badge/typescript-4.6-blue?style=for-the-badge&logo=typescript)
+![ReactJS](https://img.shields.io/badge/react-18-blue?style=for-the-badge&logo=react)
+![VScode](https://img.shields.io/badge/VSCODE-1.66-blue?style=for-the-badge&logo=visualstudiocode)
 
 <!--
-**Janzunec/Janzunec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</div>
