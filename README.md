@@ -12,7 +12,6 @@ Am interested in all Front-end technologies, always learning and working on diff
 ![MySQL](https://img.shields.io/badge/MYSQL-8.0-lightblue?style=for-the-badge&logo=mysql)
 ![ReactJS](https://img.shields.io/badge/react-18-blue?style=for-the-badge&logo=react)
 ![Tailwind css](https://img.shields.io/badge/Tailwind%20css-3.0-lightblue?style=for-the-badge&logo=tailwindcss)
-
 ![Node.js](https://img.shields.io/badge/Nodejs-18.0-default?style=for-the-badge&logo=node.js)
 ![three.js](https://img.shields.io/badge/Three.js-r139-white?style=for-the-badge&logo=three.js)
 ![VScode](https://img.shields.io/badge/VSCODE-1.66-blue?style=for-the-badge&logo=visualstudiocode)
