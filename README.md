@@ -21,7 +21,7 @@ Am interested in all Front-end technologies, always learning and working on diff
  <hr />
 <div id="contact" align='center'>
   <p>Love meeting new people and making connections with anyone. So let's connect and maybe even create something together.</p>
-  <a href=''><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href=''><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href=''><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=Twitter&logoColor=blue" alt="Twitter Badge"/></a>
+  <a href='https://www.linkedin.com/in/jan-zunec-bb9454211/'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href='https://www.instagram.com/janzunec/'><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href='https://twitter.com/janzunec'><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=Twitter&logoColor=blue" alt="Twitter Badge"/></a>
 </div>
