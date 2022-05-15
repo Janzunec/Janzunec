@@ -1,11 +1,13 @@
 ## About me
-I am a web developer (engineer) from Maribor, Slovenia. My passion is creating unforgettable dynamic user expirience with different UI animations and effects.
 
-I am a well-organised, problem-solving, hard-working person who always insists to be on time and gets the job done. I love programming and while I'm not at my desk, I am  at the gym or with my friends.
+I am a web developer (engineer) from Maribor, Slovenia. My passion is creating unforgettable dynamic user expirience with variety UI animations and effects.
+
+I am a well-organised, problem-solving, hard-working person who always insists to be on time and gets the job done. I love programming and while I'm not at my desk, I am at the gym or with my friends.
 
 Am interested in all Front-end technologies, always learning and working on different interesting and modern projects.
 
 ### Languages and technolodies I use
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-esnext-yellow?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-4.6-blue?style=for-the-badge&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/react-18-blue?style=for-the-badge&logo=react)
