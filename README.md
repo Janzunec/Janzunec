@@ -1,6 +1,6 @@
 ## About me
 
-I am a web developer (engineer) from Maribor, Slovenia. My passion is creating unforgettable dynamic user expirience with variety UI animations and effects.
+I am a web developer (engineer) from Maribor, Slovenia. My passion is creating unforgettable dynamic user expirience with variety of UI animations and effects.
 
 I am a well-organised, problem-solving, hard-working person who always insists to be on time and gets the job done. I love programming and while I'm not at my desk, I am at the gym or with my friends.
 
