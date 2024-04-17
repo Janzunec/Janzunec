@@ -21,7 +21,8 @@ Am interested in all Front-end technologies, always learning and working on diff
 ![MongoDB](https://img.shields.io/badge/mongodb-5.0-default?style=for-the-badge&logo=mongodb)
 ![VScode](https://img.shields.io/badge/VSCODE-1.66-blue?style=for-the-badge&logo=visualstudiocode)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janzunec&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janzunec&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Streak-stats Github Stats](https://streak-stats.demolab.com/?user=Janzunec&theme=great-gatsby&hide_border=true&card_width=500)](https://git.io/streak-stats)]
 
  <hr />
 <!-- <div id="contact" align='center'>
